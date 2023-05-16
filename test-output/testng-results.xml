@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T18:30:24 IST" name="Default suite" finished-at="2023-05-12T18:30:51 IST" duration-ms="27508">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T18:30:24 IST" name="Default test" finished-at="2023-05-12T18:30:51 IST" duration-ms="27508">
+      <class name="testScripts.PlaceOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScripts.PlaceOrderTest@27406a17]" started-at="2023-05-12T18:30:24 IST" name="setup" finished-at="2023-05-12T18:30:47 IST" duration-ms="23566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addItemTest()[pri:0, instance:testScripts.PlaceOrderTest@27406a17]" started-at="2023-05-12T18:30:48 IST" name="addItemTest" finished-at="2023-05-12T18:30:49 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemTest -->
+        <test-method signature="checkOutTest()[pri:0, instance:testScripts.PlaceOrderTest@27406a17]" started-at="2023-05-12T18:30:49 IST" name="checkOutTest" finished-at="2023-05-12T18:30:51 IST" duration-ms="2086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutTest -->
+        <test-method signature="formchkPage()[pri:0, instance:testScripts.PlaceOrderTest@27406a17]" started-at="2023-05-12T18:30:51 IST" name="formchkPage" finished-at="2023-05-12T18:30:51 IST" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formchkPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScripts.PlaceOrderTest@27406a17]" started-at="2023-05-12T18:30:51 IST" name="tearDown" finished-at="2023-05-12T18:30:51 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.PlaceOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
